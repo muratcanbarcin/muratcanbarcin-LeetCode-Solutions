@@ -20,9 +20,8 @@ Not every problem may be solved in all three languages, but the use of all three
 
 ## Folder Structure
 
-Solutions are organized into folders based on LeetCode problem difficulty and categories:
+Solutions are organized into folders based on LeetCode problem difficulty:
 
 * **/Easy**: Solutions to easy-level problems.
 * **/Medium**: Solutions to medium-level problems.
 * **/Hard**: Solutions to hard-level problems.
-* **/DailyQuestions**: Daily questions solved for the LeetCode "streak".
